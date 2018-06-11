@@ -8,6 +8,7 @@ If you want to help out, #help-wanted tag is for bugs where I might need help tr
 
 The #feature-request tag is for feature requests.  Try to keep them realistic, concrete, and concise.  Please also understand that feature requests are not always (or even often) able to be implemented.  If adding a feature is going to make the app confusing or add unnecessary complexity, it probably doesn't fit within the design goals of the app.  So please keep that in mind if you are making feature requests.  That said, post away!
 
+The "Projects" tab can be used to track bugs or features being prepared for the next update or release.
 
 Looking for app support or questions?  Use the Olympia Noise Forum instead : http://forum.olympianoiseco.com
 
