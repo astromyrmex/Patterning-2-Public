@@ -16,7 +16,7 @@ Looking for app support or questions?  Use the Olympia Noise Forum instead : htt
 (Please verify bug fixes work!)
 
 Patterning 2.0.2 (33)
-\• Fix initial pattern on loading a song.
+/• Fix initial pattern on loading a song.
 • Additional safety checks. 
 
 Patterning 2.0.2 (31)
