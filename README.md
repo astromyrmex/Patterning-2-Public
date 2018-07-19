@@ -114,8 +114,6 @@ Patterning 2.0.1 (15)
 • Hide FF / RW / New Pattern buttons when sample view pops out.
 • Update record pads to reflect Mute/Solo state.
 
-
-
 Patterning 2.0.1 (13)
 • Fix crash on app launch when entering Tutorial.
 
