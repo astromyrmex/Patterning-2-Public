@@ -14,9 +14,9 @@ Looking for app support or questions?  Use the Olympia Noise Forum instead : htt
 
 # CHANGELOG 
 (Please verify bug fixes work!)
-### Patterning 2.0.2 (33) 
+### Patterning 2.0.2 (33)
 <br/>• Fix initial pattern on loading a song.
-<br/>• Additional safety checks. 
+<br/>• Additional safety checks.
 ### Patterning 2.0.2 (31)
 <br/>• Fix issues with naming of exported audio files when a song has multiple drum kits.
 <br/>• Fix names of tracks in Ableton Live Set exports.
