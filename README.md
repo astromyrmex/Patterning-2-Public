@@ -15,33 +15,33 @@ Looking for app support or questions?  Use the Olympia Noise Forum instead : htt
 # CHANGELOG 
 (Please verify bug fixes work!)
 
-Patterning 2.0.2 (33)
+###Patterning 2.0.2 (33)
 <br/>• Fix initial pattern on loading a song.
 <br/>• Additional safety checks. 
 
-Patterning 2.0.2 (31)
+###Patterning 2.0.2 (31)
 <br/>• Fix issues with naming of exported audio files when a song has multiple drum kits.
 <br/>• Fix names of tracks in Ableton Live Set exports.
 <br/>• Fix MIDI export in Ableton Live Sets.
 
-Patterning 2.0.2 (29)
+###Patterning 2.0.2 (29)
 <br/>• Fix issues with exporting audio & Ableton Live Sets when songs contain multiple drum kits. 
 <br/>• Fix color of titles when exporting to Dropbox.
 
-Patterning 2.0.1 (25)
+###Patterning 2.0.1 (25)
 <br/>• Initial Release Candidate.
 <br/>• Fix some layout and font size issues on iPad Pro 12.9”.  
 <br/>• Ability to generate default MIDI input for pads on RECORD page. 
 <br/>• Removed default MIDI input mapping when creating new song.
 
-Patterning 2.0.1 (23)
+###Patterning 2.0.1 (23)
 <br/>• Fix issue with importing of .onps files removing step automation data.
 <br/>• Fix issue with exporting audio and .onps files when song name includes illegal characters.
 <br/>• Fixed a couple issues that could cause crashes on loading/opening a song.
 <br/>• Update background audio state when MIDI is assigned to trigger pads.
 <br/>• Auto generate default MIDI input mapping for pads when creating a new song.  Port “Patterning 2”, Channel 1, Notes 60, 62, 64, 65, 67, 69, 71, 72.
 
-Patterning 2.0.1 (21)
+###Patterning 2.0.1 (21)
 <br/>• Fix crash when downloading Cloud Kits created with Patterning 1.
 <br/>• Fixed issue where patterns get incorrectly reset when stopping the timeline.  
 <br/>• Added “Debug” mode in Settings app to send logs.
@@ -50,7 +50,7 @@ Patterning 2.0.1 (21)
 <br/>• Fixed multiple issues with the timeline.  Please test!  Things like adding and removing patterns, deleting and inserting new patterns, toggling loops.  Especially making edits while the timeline is playing.
 <br/>• Fix issue where Pattern view did not update after clearing a loop in the Record view.
 
-Patterning 2.0.1 (19)
+###Patterning 2.0.1 (19)
 <br/>• Tweaks to launch sequence.  Please check on iPad Pro 12.9” & 10.5” for seamless transition from launch screen to animation.
 <br/>• Fix regression with importing samples with Open In… Please test importing samples from other apps, Files, Dropbox, etc. 
 <br/>• Fix issue with FX settings not properly loading before pressing play.
@@ -64,8 +64,7 @@ Patterning 2.0.1 (19)
 <br/>• Fix size of long sample names on right bar.
 <br/>• Fix rounding of “PATTERN” menu bar item when displaying the sample library.
 
-
-Patterning 2.0.1 (17)
+###Patterning 2.0.1 (17)
 <br/>• New Launch sequence.  If you have an iPad Pro 12.9” or 10.5” please let me know if it looks okay.  I do not trust the iOS simulator animations.  There should be a seamless transition from the static “PATTERNING 2” text into the loading animation.
 <br/>• “Classic” color scheme is now available, via the iOS System Settings app.  You must restart the app for changes to the color scheme be applied.  Let me know if anything looks funny.
 <br/>• Added “Grid Spacing” setting for changing frequency of grid lines.  It’s available from a menu under “STEPS” on the loop settings page.  Default setting can be used to set a default setting for the entire song. 
@@ -82,10 +81,7 @@ Patterning 2.0.1 (17)
 <br/>• Fixed issues with Pattern Select views (on Song/Record pages) from not properly displaying MIDI Learn controls.
 <br/>• Fixed layout of MIDI Learn buttons for transport controls in Pattern view. 
 
-
-
-
-Patterning 2.0.1 (15)
+###Patterning 2.0.1 (15)
 <br/>• Make changes to MIDI Port selection to avoid potential crashes. 
 <br/>• Fix crash / Add error reporting for failed audio imports.
 <br/>• Fix swipe to delete in Sample Browser
@@ -117,7 +113,7 @@ Patterning 2.0.1 (15)
 Patterning 2.0.1 (13)
 <br/>• Fix crash on app launch when entering Tutorial.
 
-Patterning 2.0.1 (11)
+###Patterning 2.0.1 (11)
 <br/>• App freeze on relaunch — continuing to investigate this but made some additional changes that I think may get it.  Let me know if happens to you (or if it was happening and is no longer!).
 <br/>• Fix crash when exporting .onps files
 <br/>• Fix MIDI Outputs not being properly muted.
@@ -131,8 +127,7 @@ Patterning 2.0.1 (11)
 <br/>• Remove Files as audio import option on iOS10.
 <br/>• Fix crash on “Apply to All” when other loops in a pattern have a smaller step count than the current loop.
 
-Patterning 2.0.1 (7)
-
+###Patterning 2.0.1 (7)
 <br/>• App freeze on relaunch — I think this is fixed.  Please let me know if you encounter it again. 
 <br/>• Fix “delete patterns” crash.  Please stress test this!
 <br/>• Fix crash when trying to access randomize/quantize menus on iPad Pro 
@@ -151,12 +146,11 @@ Patterning 2.0.1 (7)
 <br/>• Update to MIDI learn loading on new song.  Please test that MIDI learn parameters are working correctly after loading a song.
 <br/>• Fix MIDI input crash on Mixer view.
 
-Patterning 2.0.1 (6)
-
+###Patterning 2.0.1 (6)
 <br/>• initialRotationSteps bug fixed
 <br/>• Eraser Tool Crash
-<br/>• Fix Ratchet Count / Ratchet Decay layer not showing on audio tracks
-<br/>• Autosave automatically every 60 seconds. 
-<br/>• Fix record velocities not matching sequenced velocities.  
-<br/>• Fix velocity to amplitude math.  
+<br/>• Fix Ratchet Count / Ratchet Decay layer not showing on audio tracks.
+<br/>• Autosave automatically every 60 seconds.
+<br/>• Fix record velocities not matching sequenced velocities.
+<br/>• Fix velocity to amplitude math.
 <br/>• Adjustments to Ratcheting velocities.
