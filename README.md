@@ -13,7 +13,7 @@ The "Projects" tab can be used to track bugs or features being prepared for the 
 Looking for app support or questions?  Use the Olympia Noise Forum instead : http://forum.olympianoiseco.com
 
 # CHANGELOG 
-(Please verify bug fixes work!)
+
 ### Patterning 2.0.2 (33)
 <br/>• Fix initial pattern on loading a song.
 <br/>• Additional safety checks.
