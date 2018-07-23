@@ -14,6 +14,13 @@ Looking for app support or questions?  Use the Olympia Noise Forum instead : htt
 
 # CHANGELOG 
 
+### Patterning 2.0.2 (37)
+<br/>• Add “Videos” section to help menu - tap ? in upper left to see links to help videos. 
+<br/>• Minor tweaks to layout of loop layers.
+### Patterning 2.0.2 (35)
+<br/>• Fix issues with ABRemote
+<br/>• Add ABRemote record and metronome buttons
+<br/>• Change exponential scaling of randomize sliders.
 ### Patterning 2.0.2 (33)
 <br/>• Fix initial pattern on loading a song.
 <br/>• Additional safety checks.
